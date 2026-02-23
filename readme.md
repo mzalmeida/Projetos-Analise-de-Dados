@@ -5,7 +5,7 @@ Cada projeto possui seu próprio README explicando objetivo, dados utilizados, f
 
 ## 📂 Índice de Projetos
 
-- [Projeto 04](./Projeto04/README.md)
+- [Projeto 04](./Projeto04/readme.md)
 
 ---
 
