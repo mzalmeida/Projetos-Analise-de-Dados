@@ -52,22 +52,10 @@ Ele transforma dados brutos em uma matriz adequada para o modelo, aplica pré-pr
 
 ---
 
-## 🚀 Como Executar
-1. Clone este repositório:
-   git clone https://github.com/seuusuario/seuprojeto.git
-   
-2. Instale as dependências:
-	pip install pandas scikit-learn joblib
-
-3. Abra o Jupyter Notebook:
-	jupyter notebook
-
-4. Execute as células para treinar o modelo e gerar previsões.
-
 📈 Exemplo de Uso
-# Previsão de preço para um carro do segundo modelo,
-# com 86.000 km rodados e 7 anos de uso:
-modelo_carregado.predict([[0,1,0,86000,7]])
+Previsão de preço para um carro do segundo modelo, com 86.000 km rodados e 7 anos de uso:
+
+---
 
 🎯 Motivação
 Este projeto mostra como aplicar Machine Learning em um problema prático:
@@ -75,6 +63,8 @@ Este projeto mostra como aplicar Machine Learning em um problema prático:
 - Oferecer preços justos e consistentes.
 - Escalar análises para milhares de registros.
 - Servir como base para sistemas mais complexos de precificação.
+
+---
 
 📂 Estrutura do Projeto
 ├── modelo/                  # Pasta onde o modelo treinado é salvo
