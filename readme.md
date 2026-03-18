@@ -7,6 +7,7 @@ Cada projeto possui seu próprio README explicando objetivo, dados utilizados, f
 
 - [Projeto 04](./Projeto04/readme.md)
 - [Projeto 05](./Projeto05/Readme.md)
+- [Projeto 06](./Projeto05/Readme.md)
 
 ---
 
